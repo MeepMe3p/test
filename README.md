@@ -20,7 +20,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](StickIt Images/StickIt-ERD.png)
+![screenshot](StickIt%20Images/StickIt-ERD.png)
 
 ## Key Features
 
