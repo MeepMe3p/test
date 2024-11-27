@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center"> A collaborative note taking app </h4>
+<h4 align="center"> A collaborative sticky notes board </h4>
 
 
 
@@ -24,23 +24,7 @@
 
 ## Key Features
 
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+* Le features
 
 ## How To Use
 
@@ -48,16 +32,24 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+$ git clone https://github.com/MeepMe3p/Stick-It-CSIT327
 
 # Go into the repository
-$ cd electron-markdownify
+$ cd Stick-It-CSIT327
+
+# Create and activate a virtual environment
+$ py -m venv venv
+$ venv\Scripts\activate
 
 # Install dependencies
-$ npm install
+$ pip install django
+$ pip install channels
+$ pip install channels_redis
+$ pip install django-bootrap5
+
 
 # Run the app
-$ npm start
+$ py manage.py runserver
 ```
 
 > **Note**
