@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="StickIt Images/StickIt-logo.png" alt="Logo" width="200">
+  <img src="StickIt Images/Stickit-logo.png" alt="Logo" width="200">
   <br>
   StickIt: A collaborative note taking app 
   <br>
