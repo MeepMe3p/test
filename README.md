@@ -62,19 +62,14 @@ You can [download](#) the latest installable version of StickiIt for Windows, ma
 
 ## Emailware
 
-StickIt is a [sticky note](https://en.wikipedia.org/wiki/Post-it_note) app. Where you can post notes and collaborte with people, if you liked using this app or it has helped you in any way, I'd like you send me an email at <email@email.com> about anything you'd want to say about this software. I'd really appreciate it!
+StickIt is a [sticky note](https://en.wikipedia.org/wiki/Post-it_note) app. Where you can post notes and collaborate with people, if you liked using this app or it has helped you in any way, I'd like you send me an email at <email@email.com> about anything you'd want to say about this software. I'd really appreciate it!
 
 ## Credits
 
-This software uses the following open source packages:
+This software uses the following open-source packages:
 
-- [Electron](http://electron.atom.io/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
+- [Django](https://www.djangoproject.com/) – A web framework in python
+- [Bootstrap 5](https://getbootstrap.com) – A front-end framework for building responsive websites.
 
 ## Related
 
@@ -82,18 +77,17 @@ This software uses the following open source packages:
 
 ## Support
 
-<a href="https://buymeacoffee.com/amitmerchant" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="#" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 <p>Or</p> 
 
-<a href="https://www.patreon.com/amitmerchant">
+<a href="#">
 	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
 
 ## You may also like...
 
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
+- [Stickit](https://github.com/MeepMe3p/Stick-It-CSIT327) - The same app
 
 ## License
 
@@ -101,7 +95,10 @@ MIT
 
 ---
 
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
+
+> GitHub
+> [Avril Nigel Chua](https://github.com/Momonan0412) &nbsp;&middot;&nbsp;
+> [Mary Karylle Delos Reyes](https://github.com/MKdelosreyes) &nbsp;&middot;&nbsp;
+> [Elijah Rei Sabay](https://github.com/MeepMe3p) &nbsp;&middot;&nbsp;
+
 
