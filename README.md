@@ -58,11 +58,11 @@ $ py manage.py runserver
 
 ## Download
 
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
+You can [download](#) the latest installable version of StickiIt for Windows, macOS and Linux.
 
 ## Emailware
 
-Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
+StickIt is a [sticky note](https://en.wikipedia.org/wiki/Post-it_note) app. Where you can post notes and collaborte with people, if you liked using this app or it has helped you in any way, I'd like you send me an email at <email@email.com> about anything you'd want to say about this software. I'd really appreciate it!
 
 ## Credits
 
