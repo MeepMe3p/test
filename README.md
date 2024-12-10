@@ -65,7 +65,7 @@ $ py manage.py runserver
 
 <div style="display: flex; overflow-x: auto; gap: 10px; scroll-snap-type: x mandatory; padding: 10px; border: 1px solid #ccc; border-radius: 8px; scrollbar-width: none;">
   <div style="flex: none; scroll-snap-align: center;">
- 	 <img src="https://github.com/user-attachments/assets/f060d2b6-596d-4553-b734-fea19af3db10" alt="Login" style="height: 200px; border-radius: 10px;">
+ 	 <img src="https://github.com/user-attachments/assets/f060d2b6-596d-4553-b734-fea19af3db10" alt="Login" style="height: 500px;  width: 800px; ; border-radius: 10px;">
   </div>
   <div style="flex: none; scroll-snap-align: center;">
   <img src="https://github.com/user-attachments/assets/18e2259b-ab0f-4c8e-9762-c96de8bbe8bf" alt="Register" style="height: 200px; border-radius: 10px;">
