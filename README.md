@@ -67,8 +67,8 @@ $ py manage.py runserver
   <a href="#userProfile">User Profile</a> •
   <a href="#boards">Boards</a> •
   <a href="#notifications">Notifications</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#collaborate">Collaborate</a> •
+
 </p>
 
 ---
@@ -80,7 +80,7 @@ $ py manage.py runserver
 [--Back to Features--](#Features)
 <a id="userProfile"></a> 
 ## User Profile
-- Our application provides a **secure and seamless user authentication** system to ensure that only authorized users can access protected resources. Utilizing Python **Django's built in User Authentication Framework**
+- **Customize** your User Profile!
 ![screenshot](StickIt%20Images/1211.gif)
 
 [--Back to Features--](#Features)
@@ -99,7 +99,17 @@ $ py manage.py runserver
 ## Notifications
 - Get **NOTIFIED**!!
 ![screenshot](StickIt%20Images/1211%20(5).gif)
+[--Back to Features--](#Features)
 
+<a id="collaborate"></a> 
+## Collaborate
+- Collaborate and share thoughts using **Simple Boards**!
+![screenshot](StickIt%20Images/1211%20(7).gif)
+
+
+- Collaborate and share thoughts using **Simple Boards**!
+![screenshot](StickIt%20Images/1211%20(10).gif)
+[--Back to Features--](#Features)
 
 ## Download
 
