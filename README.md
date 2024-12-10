@@ -57,7 +57,10 @@ $ py manage.py runserver
 > **Note**
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
-## <a id = "Features"> OUR FEATURES 
+
+
+<a id = "Features"></a>
+##  OUR FEATURES 
 
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center; margin-bottom: 20px;">
     <a href="#userAuth" style="padding: 10px 15px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Feature 1</a>
