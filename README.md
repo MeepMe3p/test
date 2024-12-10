@@ -77,7 +77,7 @@ $ py manage.py runserver
 - Our application provides a **secure and seamless user authentication** system to ensure that only authorized users can access protected resources. Utilizing Python **Django's built in User Authentication Framework**
 ![1210](https://github.com/user-attachments/assets/ebf06318-c58d-4edd-a269-2a8c4d83731d)
 ![1210 (1)](https://github.com/user-attachments/assets/8293456d-664e-40ca-a699-43b59e1bef2e)
-[Back to Features](#Features)
+[(Back to Features)](#Features)
 
 ## Download
 
