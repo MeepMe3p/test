@@ -61,17 +61,25 @@ $ py manage.py runserver
 ## LE FEATURES
 
 
-![1210](https://github.com/user-attachments/assets/18e2259b-ab0f-4c8e-9762-c96de8bbe8bf)
-![1210 (1)](https://github.com/user-attachments/assets/f060d2b6-596d-4553-b734-fea19af3db10)
 
+
+<div style="display: flex; overflow-x: auto; gap: 10px; scroll-snap-type: x mandatory; padding: 10px; border: 1px solid #ccc; border-radius: 8px; scrollbar-width: none;">
+  <div style="flex: none; scroll-snap-align: center;">
+ 	 <img src="https://github.com/user-attachments/assets/f060d2b6-596d-4553-b734-fea19af3db10" alt="Login" style="height: 200px; border-radius: 10px;">
+  </div>
+  <div style="flex: none; scroll-snap-align: center;">
+  <img src="https://github.com/user-attachments/assets/18e2259b-ab0f-4c8e-9762-c96de8bbe8bf" alt="Register" style="height: 200px; border-radius: 10px;">
+  </div>
+
+
+</div>
 
 
 
 <div style="display: flex; overflow-x: auto; white-space: nowrap; gap: 10px; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
   <img src="https://github.com/user-attachments/assets/f060d2b6-596d-4553-b734-fea19af3db10" alt="Login" style="height: 150px; border-radius: 10px;">
   <img src="https://github.com/user-attachments/assets/18e2259b-ab0f-4c8e-9762-c96de8bbe8bf" alt="Register" style="height: 150px; border-radius: 10px;">
-<!--   <img src="https://via.placeholder.com/200x300.png?text=Story+3" alt="Story 3" style="height: 150px; border-radius: 10px;">
-  <img src="https://via.placeholder.com/200x300.png?text=Story+4" alt="Story 4" style="height: 150px; border-radius: 10px;"> -->
+
 </div>
 ## Download
 
