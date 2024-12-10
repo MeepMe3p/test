@@ -66,7 +66,7 @@ $ py manage.py runserver
   <a href="#userAuth">User Authentication</a> •
   <a href="#userProfile">User Profile</a> •
   <a href="#boards">Boards</a> •
-  <a href="#credits">Credits</a> •
+  <a href="#notifications">Notifications</a> •
   <a href="#related">Related</a> •
   <a href="#license">License</a>
 </p>
@@ -94,6 +94,11 @@ $ py manage.py runserver
 ![screenshot](StickIt%20Images/1211%20(4).gif)
 
 [--Back to Features--](#Features)
+
+<a id="notifications"></a> 
+## Notifications
+- Get **NOTIFIED**!!
+![screenshot](StickIt%20Images/1211%20(5).gif)
 
 
 ## Download
