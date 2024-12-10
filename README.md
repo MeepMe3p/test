@@ -87,8 +87,11 @@ $ py manage.py runserver
 
 <a id="boards"></a> 
 ## Boards
-- Our application provides a **secure and seamless user authentication** system to ensure that only authorized users can access protected resources. Utilizing Python **Django's built in User Authentication Framework**
-![screenshot](StickIt%20Images/1211%20(1).gif)
+- **Create** and **Update** your own Boards
+![screenshot](StickIt%20Images/1211%20(2).gif)
+
+- **Explore** 
+![screenshot](StickIt%20Images/1211%20(4).gif)
 
 [--Back to Features--](#Features)
 
