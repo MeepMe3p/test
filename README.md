@@ -75,7 +75,7 @@ $ py manage.py runserver
 <a id="userAuth"></a> 
 ## User Authentication
 - Our application provides a **secure and seamless user authentication** system to ensure that only authorized users can access protected resources. Utilizing Python **Django's built in User Authentication Framework**
-![screenshot](StickIt%20Images/1210 (2).gif)
+![screenshot](StickIt%20Images/1210%20(2).gif)
 
 [--Back to Features--](#Features)
 
