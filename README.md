@@ -31,7 +31,7 @@
 </a>
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com)  installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
@@ -58,7 +58,21 @@ $ py manage.py runserver
 > **Note**
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
+## LE FEATURES
 
+
+![1210](https://github.com/user-attachments/assets/18e2259b-ab0f-4c8e-9762-c96de8bbe8bf)
+![1210 (1)](https://github.com/user-attachments/assets/f060d2b6-596d-4553-b734-fea19af3db10)
+
+
+
+
+<div style="display: flex; overflow-x: auto; white-space: nowrap; gap: 10px; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/f060d2b6-596d-4553-b734-fea19af3db10" alt="Login" style="height: 150px; border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/18e2259b-ab0f-4c8e-9762-c96de8bbe8bf" alt="Register" style="height: 150px; border-radius: 10px;">
+<!--   <img src="https://via.placeholder.com/200x300.png?text=Story+3" alt="Story 3" style="height: 150px; border-radius: 10px;">
+  <img src="https://via.placeholder.com/200x300.png?text=Story+4" alt="Story 4" style="height: 150px; border-radius: 10px;"> -->
+</div>
 ## Download
 
 You can [download](#) the latest installable version of StickiIt for Windows, macOS and Linux.
