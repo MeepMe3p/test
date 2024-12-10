@@ -65,7 +65,7 @@ $ py manage.py runserver
 <p align="center">
   <a href="#userAuth">User Authentication</a> •
   <a href="#userProfile">User Profile</a> •
-  <a href="#download">Download</a> •
+  <a href="#boards">Boards</a> •
   <a href="#credits">Credits</a> •
   <a href="#related">Related</a> •
   <a href="#license">License</a>
@@ -84,6 +84,14 @@ $ py manage.py runserver
 ![screenshot](StickIt%20Images/1211.gif)
 
 [--Back to Features--](#Features)
+
+<a id="boards"></a> 
+## Boards
+- Our application provides a **secure and seamless user authentication** system to ensure that only authorized users can access protected resources. Utilizing Python **Django's built in User Authentication Framework**
+![screenshot](StickIt%20Images/1211%20(1).gif)
+
+[--Back to Features--](#Features)
+
 
 ## Download
 
