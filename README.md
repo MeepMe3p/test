@@ -62,14 +62,14 @@ $ py manage.py runserver
 <a id = "Features"></a>
 ##  OUR FEATURES 
 
-<div style="display: flex; gap: 10px; justify-content: center; align-items: center; margin-bottom: 20px;">
-    <a href="#userAuth" style="padding: 10px 15px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Feature 1</a>
-    <a href="#feature2" style="padding: 10px 15px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Feature 2</a>
-    <a href="#feature3" style="padding: 10px 15px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Feature 3</a>
-    <a href="#feature4" style="padding: 10px 15px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Feature 4</a>
-    <a href="#feature5" style="padding: 10px 15px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Feature 5</a>
-    <a href="#feature6" style="padding: 10px 15px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Feature 6</a>
-</div>
+<p align="center">
+  <a href="#usserAuth">User Authentication</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#download">Download</a> •
+  <a href="#credits">Credits</a> •
+  <a href="#related">Related</a> •
+  <a href="#license">License</a>
+</p>
 
 ---
 <a id="userAuth"></a> 
