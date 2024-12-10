@@ -63,7 +63,7 @@ $ py manage.py runserver
 ##  OUR FEATURES 
 
 <p align="center">
-  <a href="#usserAuth">User Authentication</a> •
+  <a href="#userAuth">User Authentication</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
