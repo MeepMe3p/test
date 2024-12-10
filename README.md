@@ -58,8 +58,7 @@ $ py manage.py runserver
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
 ## LE FEATURES
-
-<h4>USER AUTHENTICATION</h4>
+**USER AUTHENTICATION**
 - Our application provides a **secure and seamless user authentication** system to ensure that only authorized users can access protected resources. Utilizing Python **Django's built in User Authentication Framework**
 ![1210 (1)](https://github.com/user-attachments/assets/8293456d-664e-40ca-a699-43b59e1bef2e)
 ![1210](https://github.com/user-attachments/assets/ebf06318-c58d-4edd-a269-2a8c4d83731d)
