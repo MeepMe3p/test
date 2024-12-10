@@ -57,10 +57,10 @@ $ py manage.py runserver
 > **Note**
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
-## <a id = "#Featrures> OUR FEATURES 
-[In
+## <a id = "Features"> OUR FEATURES 
+
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center; margin-bottom: 20px;">
-    <a href="#feature1" style="padding: 10px 15px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Feature 1</a>
+    <a href="#userAuth" style="padding: 10px 15px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Feature 1</a>
     <a href="#feature2" style="padding: 10px 15px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Feature 2</a>
     <a href="#feature3" style="padding: 10px 15px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Feature 3</a>
     <a href="#feature4" style="padding: 10px 15px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">Feature 4</a>
@@ -70,7 +70,7 @@ $ py manage.py runserver
 
 ---
 
-## <a id="#userAuth"></a> User Authentication
+## <a id="userAuth"></a> User Authentication
 - Our application provides a **secure and seamless user authentication** system to ensure that only authorized users can access protected resources. Utilizing Python **Django's built in User Authentication Framework**
 ![1210](https://github.com/user-attachments/assets/ebf06318-c58d-4edd-a269-2a8c4d83731d)
 ![1210 (1)](https://github.com/user-attachments/assets/8293456d-664e-40ca-a699-43b59e1bef2e)
